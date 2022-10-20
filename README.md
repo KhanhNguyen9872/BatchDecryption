@@ -15,4 +15,4 @@ python main.py
 6. Enjoy
 
 # README
-- It's too difficult to make a decryption tool, because it is a more encryption type, so if you want to decrypt a series of files, you can inbox [KhanhNguyen9872] (https://fb.me/khanh10a1), I will decode it for you with a price cheap
+- It's too difficult to make a decryption tool, because it is a more encryption type, so if you want to decrypt a series of files, you can inbox [KhanhNguyen9872](https://fb.me/khanh10a1), I will decode it for you with a price cheap
