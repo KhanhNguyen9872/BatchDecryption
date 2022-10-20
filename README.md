@@ -14,5 +14,5 @@ python main.py
 ```
 6. Enjoy
 
-# Issue
-If your batch file cannot decrypt, you can post issue [here](https://github.com/KhanhNguyen9872/BatchDecryption/issues) with your batch file, i will update it soon!
+# README
+- It's too difficult to make a decryption tool, because it is a more encryption type, so if you want to decrypt a series of files, you can inbox [KhanhNguyen9872] (https://fb.me/khanh10a1), I will decode it for you with a price cheap
